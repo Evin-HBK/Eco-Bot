@@ -7,7 +7,7 @@ Clone the repository and install the dependencies using [Poetry](https://python-
 
 ```bash
 https://github.com/Evin-HBK/Eco-Bot
-cd textbase
+cd Eco-Bot
 pip install poetry
 poetry install
 ```
