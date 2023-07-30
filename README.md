@@ -6,7 +6,7 @@ A chatbot which helps in organizing and joining environmental cleanup events and
 Clone the repository and install the dependencies using [Poetry](https://python-poetry.org/) (you might have to [install Poetry](https://python-poetry.org/docs/#installation) first).
 
 ```bash
-git clone https://github.com/cofactoryai/textbase
+https://github.com/Evin-HBK/Eco-Bot
 cd textbase
 pip install poetry
 poetry install
